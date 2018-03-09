@@ -1,6 +1,8 @@
+<%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
+<!DOCTYPE html>
 <html>
 <body>
-<h2>Hello World!</h2>
-<a href="/helloagain">/helloagain</a>
+<h1>Hello Spring4 XML Config Version</h1>
+<h2><a href="/helloagain">/helloagain</a></h2>
 </body>
 </html>
