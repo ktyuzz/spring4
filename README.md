@@ -1,4 +1,5 @@
-# Spring4 기반 프로젝트의 가장 기본적인 시작세팅(XML CONFIG 버전)
+# Spring4 init settings by XML Config
+Spring Framework4 기반 프로젝트의 가장 기본적인 시작세팅을 아래와 같이 구성함.
 
 - 컨텍스트루트 : '/'
 - 자바 : 1.8
